@@ -252,7 +252,7 @@ confidence-under-shift/
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/confidence-under-shift.git
+git clone https://github.com/patrator12/confidence-under-shift.git
 cd confidence-under-shift
 
 python -m venv .venv
@@ -502,7 +502,7 @@ Released under the MIT License. See [LICENSE](LICENSE) for details. Datasets and
 
 ## 🙏 Acknowledgments
 
-Guidance from `<Advisor name>` and the Department of CSE (AI & ML), VVIT. Built on open-source tools including PyTorch and the WILDS benchmark.
+Guidance from `Dr.S.L.V.V.D.Sarma` and the Department of CSE (AI & ML), VVIT. Built on open-source tools including PyTorch and the WILDS benchmark.
 
 <div align="center">
 
